@@ -1,5 +1,7 @@
 # Rastreimy
 
+![Logo do projeto](https://user-images.githubusercontent.com/5016971/74430933-a3b87300-4e3c-11ea-8277-710dc3fc694b.png)
+
 Aplicativo de rastreios de encomenda dos correios open source.
 
 ## Getting Started
