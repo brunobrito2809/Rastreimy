@@ -8,3 +8,6 @@ Aplicativo de rastreios de encomenda dos correios open source.
 
 - Instale o plugin do flutter para o android studio.
 
+- Baixe esse repositorio.
+
+- Abra no android studio e pronto.
